@@ -1,3 +1,4 @@
+
 # Resume Editor
 
 A modern, full-featured resume editor with AI enhancement capabilities. Built with React.js frontend and FastAPI backend.
@@ -192,3 +193,6 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# Resume-Editor-API-FastAPI-Project
+A FastAPI-based backend for enhancing and managing resume content. Supports AI-like section improvements, saving resumes to JSON, and retrieving them via REST API. Ideal for integration with frontend apps like React. Features endpoints for summary, skills, education, and experience.

@@ -1,0 +1,100 @@
+{
+  "personalInfo": {
+    "name": "Ashok Padamati",
+    "email": "padamatiashok245@gmail.com",
+    "phone": "+91-8688273383",
+    "location": "hyderabad",
+    "linkedin": "linkedin.com/in/ashok-padamati-30b974284",
+    "website": "https://www.linkedin.com/in/ashok-padamati-30b974284"
+  },
+  "summary": "",
+  "experience": [
+    {
+      "id": "1751044856410",
+      "company": "|INTERNSHIPS:",
+      "position": "INTERN | INTERNET OF THINGS | SKILLDIZER Feb-2024 To Apr-2024",
+      "startDate": "",
+      "endDate": "",
+      "description": "\u2022 Designed and implemented IoT solutions for robotics using Arduino and Raspberry Pi, integrating sensors, ensuring secure communication, and optimizing system performance. INTERN | INTERLOCKING SYSTEMS |SOUTH CENTRAL RAILWA Apr-2024 To Jun-2024 \u2022 Gained experience in railway interlocking systems, working with track switches, signals, and interlocking logic to enhance safety and efficiency. INTERN |JAVA|AICTE Nov-2023 To Jan-2024 \u2022 Developed Java-based applications, worked on OOPs, data structures, and algorithms, and improved problem-solving skills through software development. TECHNICAL SKILLSET: \u2022 Programming languages: |PYTHON|JAVA| JDBC | JSP |SERVLETS|AWS \u2022 Frontend: HTML| CSS |JAVASCRIPT|REACT JS \u2022 Database: MYSQL | ORACLE SQL \u2022 Framework: Hibernate | SPRING | SPRINGBOOT PROJECTS : Gite Walking Robot \u2022 Designed a self-balancing robot capable of walking on inclined surfaces, integrating sensors like gyroscopes and accelerometers for movement analysis \u2022 Technologies Used: |Auto CAD |CATIA| SQL|SOLIDWORKS| Bank Management System \u2022 Developed a web application for user authentication, account management, fund transfers, and transaction tracking using JDBC and MySQL. \u2022 Technologies Used: JAVA|SQL|HTML|CSS|JavaScript Library Management System \u2022 Built a dynamic web application with book search, user registration, and tracking functionalities, featuring a responsive UI. \u2022 Technologies Used: HTML | CSS | JavaScript|React js Certifications : \u2022 Internet of Things (IoT) Certification - Skilldizer \u2022 Interlocking Systems Internship - South Central Railway \u2022 Hackerrank Skill Certification in Java \u2022 ASME EFX in Robotics PERSONAL DETAILS Languages know : English, Telugu,Hindi Hobbies : Reading Books, Playing Games, Traveling, and Social Service DECLLERATION I hereby declare that the information provided above is true and correct to the best of my knowledge and belief. Place: Eluru Signature Date: PADAMATI ASHOK"
+    }
+  ],
+  "education": [
+    {
+      "id": "1751044856411",
+      "institution": "Eluru",
+      "degree": "SSC St.joseph\u2019s High S.S.C 2018 8.2",
+      "startDate": "",
+      "endDate": "",
+      "description": "School"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1751044856412",
+      "name": "adapt to emerging"
+    },
+    {
+      "id": "1751044856412",
+      "name": "technologies"
+    },
+    {
+      "id": "1751044856412",
+      "name": "and grow as a proficient engineer. I aim to contribute effectively while continuously learning and"
+    },
+    {
+      "id": "1751044856412",
+      "name": "earning the trust of management."
+    },
+    {
+      "id": "1751044856412",
+      "name": "ACADMIC QUALIFICATION"
+    },
+    {
+      "id": "1751044856412",
+      "name": "Qualification Institution University/Board Year of Percentage/CGPA"
+    },
+    {
+      "id": "1751044856412",
+      "name": "Passing"
+    },
+    {
+      "id": "1751044856412",
+      "name": "B.Tech SIR.C.R.Reddy Jawaharlal Nehru 2024 8.0"
+    },
+    {
+      "id": "1751044856412",
+      "name": "Engineering College Technological"
+    },
+    {
+      "id": "1751044856412",
+      "name": "Eluru University"
+    },
+    {
+      "id": "1751044856412",
+      "name": "kakinda"
+    },
+    {
+      "id": "1751044856412",
+      "name": "Diploma SIR.C.R.Reddy State board of 2021 68"
+    },
+    {
+      "id": "1751044856412",
+      "name": "Polytechanic College Technical Education"
+    },
+    {
+      "id": "1751044856412",
+      "name": "Eluru"
+    },
+    {
+      "id": "1751044856412",
+      "name": "SSC St.joseph\u2019s High S.S.C 2018 8.2"
+    },
+    {
+      "id": "1751044856412",
+      "name": "School"
+    }
+  ],
+  "projects": [],
+  "id": "resume_20250627_225144",
+  "saved_at": "2025-06-27T22:51:44.855463"
+}
